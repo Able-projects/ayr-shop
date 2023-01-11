@@ -1,0 +1,116 @@
+@import url(//db.onlinewebfonts.com/c/d5bd523d9152e80458f764c62c5bb9df?family=Larsseit);
+@import url(//db.onlinewebfonts.com/c/3bea650d056f5bb2dcafcb462b8a0745?family=Larsseit+Medium);
+@import url(//db.onlinewebfonts.com/c/4e6177b918ba7f280b5db111d868cc94?family=Larsseit+Thin);
+
+[data-theme='compact'] .card-container > .ant-tabs-card > .ant-tabs-content,
+.card-container > .ant-tabs-card > .ant-tabs-content {
+  height: auto;
+  margin-top: 10px;
+  margin-left: -300px;
+}
+.card-container{
+    width: 100%;
+    height: auto;
+    margin-top: 200px;
+    padding-top: 1px;
+    background: #e4e8eb;
+}
+[data-theme='compact'] .card-container > .ant-tabs-card > .ant-tabs-content > .ant-tabs-tabpane,
+.card-container > .ant-tabs-card > .ant-tabs-content > .ant-tabs-tabpane {
+  background: #e4e8eb;
+  padding: 16px;
+  font-size: large;
+}
+
+[data-theme='compact'] .card-container > .ant-tabs-card > .ant-tabs-bar,
+.card-container > .ant-tabs-card > .ant-tabs-bar {
+  border-color: #e4e8eb;
+  font-size: large;
+}
+
+[data-theme='compact'] .card-container > .ant-tabs-card > .ant-tabs-bar .ant-tabs-tab,
+.card-container > .ant-tabs-card > .ant-tabs-bar .ant-tabs-tab {
+  border-color: transparent;
+  background: transparent;
+  font-size:x-large;
+  color: darkgray;
+  font-family: 'Larsseit Medium',sans-serif;
+  margin: -5px 150px 0 0;
+}
+
+[data-theme='compact'] .card-container > .ant-tabs-card > .ant-tabs-bar .ant-tabs-tab-active,
+.card-container > .ant-tabs-card > .ant-tabs-bar .ant-tabs-tab-active {
+  border-color: #e4e8eb;
+  background: #e4e8eb;
+  color: black;
+}
+
+.denim{
+    font-size: 44px;
+    font-family: 'Larsseit Medium',sans-serif;
+    text-align: center;
+    color: black;
+    margin: 20px auto;
+}
+
+.hr{
+    border: 2px solid black;
+    width: 150%;
+    margin: auto;
+}
+.tabs-text{
+    width: 45%;
+    justify-content: left;
+    margin: auto;
+}
+.p1{
+    font-size: 40px;
+    font-family: 'Larsseit Medium',sans-serif;
+    text-align: left;
+    color: black;
+    margin: 20px auto;
+}
+
+.p2{
+    font-size: 19px;
+    font-family: 'Larsseit Thin',sans-serif;
+    text-align: left;
+    color: black;
+}
+.p3{
+    font-size: 19px;
+    font-family: Larsseit,sans-serif;
+    text-align: left;
+    color: black;
+    text-decoration: underline;
+    margin: auto;
+}
+.tabs-img img{
+    width: 50%;
+    height: auto;
+    position: relative;
+    margin: -200px 0 0 1000px;
+}
+
+.tabs-img2 img {
+    width: 55%;
+    height: auto;
+    margin: 0 0 0 10px;
+}
+.tabs-text2{
+    width: 45%;
+    justify-content: left;
+    margin: -640px 0 0 1050px;
+}
+.t2{
+    margin-left:100px;
+}
+.h5{
+    font-size: 19px;
+    font-family: 'Larsseit',sans-serif;
+    text-align: left;
+    color: black;
+}
+.h5 img{
+    width: 5%;
+}

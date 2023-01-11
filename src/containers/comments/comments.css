@@ -1,0 +1,44 @@
+@import url(//db.onlinewebfonts.com/c/3bea650d056f5bb2dcafcb462b8a0745?family=Larsseit+Medium);
+.comments-form {
+    width: 90%;
+    justify-content: center;
+    margin: auto;
+}
+.comment-row{
+    width: 90%;
+    justify-content: flex-start;
+    margin: auto;
+}
+.comments {
+    padding: 30px 20px;
+    background-color: white;
+    width: 50%;
+    justify-content: center;
+    margin: 30px auto 40px;
+
+}
+
+.psmall{
+    font-size: 10px;
+    text-align: left;
+}
+.pmedium{
+    font-size: 14px;
+    text-align: left;
+}
+
+b{
+    text-align: left;
+    font-family:'Larsseit Medium' ;
+    font-size: 15px;
+}
+
+.undiv{
+    color: maroon;
+    margin: 20px;
+}
+textarea{
+    width: 609px;
+    border-color: 0.3px solid #aaaaaa;
+    color: black;
+}

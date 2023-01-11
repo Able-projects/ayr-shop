@@ -1,0 +1,45 @@
+@import url(//db.onlinewebfonts.com/c/d5bd523d9152e80458f764c62c5bb9df?family=Larsseit);
+@import url(//db.onlinewebfonts.com/c/3bea650d056f5bb2dcafcb462b8a0745?family=Larsseit+Medium);
+
+.h1thanks{
+    font-size: 52px;
+    font-family: 'Larsseit Medium',sans-serif;
+    text-align: center;
+    color: black;
+    margin: 50px auto;
+  }
+.signLogo{
+    margin: 40px auto;
+}
+.ps{
+    font-size: 18px;
+    font-family: 'Larsseit',sans-serif;
+    text-align: center;
+    color: black;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 40%;
+    margin: 10px auto;
+}
+.s-input{
+    height: 42px;
+    padding: 11px 9px;
+}
+.form label{
+    font-size: 16px;
+    font-family: 'Larsseit',sans-serif;
+    text-align: left;
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.form button{
+    width: 190px;
+    height: 44px;
+    background-color: black;
+    color: white;
+    margin: 30px auto;
+}

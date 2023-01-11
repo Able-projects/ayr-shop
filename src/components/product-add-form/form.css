@@ -1,0 +1,17 @@
+.product-form{
+    margin:20px;
+}
+.product-form input{
+    margin:0 10px;
+    height: 30px;
+    padding-left: 10px;
+}
+
+.product-form button{
+    margin:0 10px;
+    height: 36px;
+    width: 110px;
+    color:#61DAFB;
+    background-color: #282c34;
+    border-radius: 10px;
+}

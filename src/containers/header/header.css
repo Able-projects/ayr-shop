@@ -1,0 +1,61 @@
+@import url(//db.onlinewebfonts.com/c/d5bd523d9152e80458f764c62c5bb9df?family=Larsseit);
+@import url(//db.onlinewebfonts.com/c/3bea650d056f5bb2dcafcb462b8a0745?family=Larsseit+Medium);
+.header-discount{
+    color: #fff;
+    height: 40px;
+    align-items: center;
+    background-image: url(https://assets.bounceexchange.com/assets/uploads/clients/2249/creatives/76de23adcdc0b6e567f3983ab5bf2307.jpg);
+    background-position: 100% 0%;
+    background-size: cover;
+  }
+.header {
+    padding-top: 10px;
+    background-color: white;
+  }
+.highlight{
+    margin: 0 5px;
+    color: #fff;
+    text-decoration: underline;
+  }
+
+.logo {
+    height: 40px;
+  }
+  
+.header-menu {
+    margin-top: 0;
+  }
+.h1{
+    font-size: 44px;
+    font-family: 'Larsseit Medium',Helvetica, sans-serif;
+    text-align: left;
+    margin: 30px;
+  }
+.header-icon{
+      color: #000;
+      cursor: pointer;
+      display: inline-block;
+      font-size: 15px;
+      line-height: 1.75;
+      margin: 0 10px;
+      font-family: 'Larsseit Medium', sans-serif;
+      text-decoration: none;
+  }
+.a {
+  margin: 0 20px;
+}
+
+.menu2{
+  margin-top: 14px;
+}
+
+.addbtn{
+  border: none;
+  color: #000;
+}
+
+.demo-option-label-item img{
+  width: 30px;
+  height: auto;
+  margin-right: 10px;
+}

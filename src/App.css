@@ -1,0 +1,85 @@
+@import url(//db.onlinewebfonts.com/c/9ea39edc0e867529b1b88b1b8928d4e8?family=Lasiver-Thin);
+@import url(//db.onlinewebfonts.com/c/7d63af02c08816194ff9ca408837b97c?family=Larsseit+Light);
+@import url(//db.onlinewebfonts.com/c/d5bd523d9152e80458f764c62c5bb9df?family=Larsseit);
+.App {
+  text-align: center;
+}
+
+.container { 
+   width: 90%;
+   margin: 0 auto;
+}
+
+.container-inner {
+  padding-top: 50px;
+}
+.h1h{
+  font-size: 44px;
+  font-family: 'Larsseit Medium',Helvetica, sans-serif;
+  text-align: left;
+  margin: 30px;
+}
+.bg-img {
+  width: 100%;
+  height: 470px;
+  background-image: url('/images/bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top: 10px;
+}
+.circle-img{
+  width: 41%;
+}
+.square-img{
+ position:relative;
+ margin-left:-750px ;
+}
+.circle-div{
+  z-index: 2;
+  position: relative;
+  width: 100%;
+  margin: -1000px auto 0;
+}
+.circle-div img{
+  margin-right: -860px;
+}
+.bg-img--content {
+  z-index: 1;
+  position: absolute;
+  bottom: 0;
+  color: #fff;
+  text-align: center;
+  width: 100%;
+}
+
+.bg-img--text {
+  font-size: 74px;
+  margin-bottom: 20px;
+  font-family: Larsseit,Helvetica, sans-serif;
+}
+
+.bg-img--shop {
+  text-decoration: underline;
+  font-size: 44px;
+  font-family: Larsseit,Helvetica, sans-serif;
+}
+
+
+.blog-item {
+  width: calc(100% - 40px);
+  margin: 0 auto 40px;
+}
+
+.textdiv{
+  width: 40%;
+  position: relative;
+  font-size: 19px;
+  text-align: left;
+  margin-left: 680px;
+  font-family: 'Larsseit Light',Helvetica, sans-serif;
+}
+.alink{
+  color: black;
+  text-decoration: underline;
+}

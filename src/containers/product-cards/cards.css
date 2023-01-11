@@ -1,0 +1,17 @@
+@import url(//db.onlinewebfonts.com/c/d5bd523d9152e80458f764c62c5bb9df?family=Larsseit);
+@import url(//db.onlinewebfonts.com/c/3bea650d056f5bb2dcafcb462b8a0745?family=Larsseit+Medium);
+
+.rowcards{
+    width: 90%;
+    justify-content: center;
+    margin: 10px auto 120px;
+}
+
+.h11{
+    font-size: 44px;
+    font-family: 'Larsseit Medium',sans-serif;
+    margin: 30px;
+    text-align: center;
+    color: black;
+    margin: 50px auto;
+  }

@@ -1,0 +1,22 @@
+@import './style.scss';
+%style {
+    margin:20px;
+}
+@mixin size($size){
+    font-weight: $size;
+}
+@for $i from 1 through 3 {
+    .block#{$i}{
+        background: $green;
+    }
+}
+.block1{
+    background-color: $violet;
+    @extend %style;
+    p{
+        color:$red;
+        font-size: large;
+        @include size(600);
+    }
+}
+    

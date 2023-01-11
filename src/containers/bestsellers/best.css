@@ -1,0 +1,32 @@
+.h2{
+    font-size: 20px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.play{
+    align-items: center;
+    border-left: 1px solid black;
+    height: 90px;
+    margin-top: 20px;
+}
+
+.page-row{
+    display: inline;
+    justify-content: center;
+    margin: 30px auto;
+}
+.page-row button {
+    border: 1px solid blueviolet;
+    margin: 0 10px;
+    background: none;
+    color:blueviolet;
+}
+.savebtn{
+    color: white;
+    margin-top: 10px;
+    background-image: url(https://assets.bounceexchange.com/assets/uploads/clients/2249/creatives/76de23adcdc0b6e567f3983ab5bf2307.jpg);
+  }

@@ -1,0 +1,73 @@
+@import url(//db.onlinewebfonts.com/c/d5bd523d9152e80458f764c62c5bb9df?family=Larsseit);
+.modalrow{
+    display: flex;
+}
+.modalcard{
+    border: 2px solid black;
+    background-color: white;
+    padding: 50px;
+    padding-bottom: 10px;
+    margin: 0 30px;
+    width: 100%;
+    justify-content: center;
+}
+
+.mc{
+    font-size: large;
+}
+
+.mcc{
+    font-size: xx-large;
+    margin: 10px;
+}
+.hmc{
+    text-align: center;
+    margin: 10px;
+}
+.sizediv:first-child{
+    display: flex;
+    margin: 10px;
+    border: 2px solid black;
+    padding: 10px;
+}
+.sizediv:first-child .sizeh4{
+    margin: 0 20px;
+}
+.sizediv{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+.sizeh4{
+    margin: 0 15px;
+    font-size: 19px;
+}
+.textarea{
+    border:0.5px solid rgb(102, 102, 101);
+    width: 472px;
+    height: auto;
+}
+.inbasket{
+    width: 80px;
+    height: 110px;
+    margin-top: 5px;
+}
+.bt{
+  font-size: 17px;
+  color:black;
+  font-family: 'Larsseit Medium',Helvetica, sans-serif;
+}
+.bsize{
+    color:black;
+    font-size: 15px;
+    font-family: 'Larsseit',Helvetica, sans-serif;
+    margin-left: 10px;
+}
+.totald{
+    display: none;
+}
+.t{
+    font-size: 20px;
+    align-items: center;
+    margin: auto;
+}

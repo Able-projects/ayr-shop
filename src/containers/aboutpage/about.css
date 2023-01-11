@@ -1,0 +1,52 @@
+@import url(//db.onlinewebfonts.com/c/d5bd523d9152e80458f764c62c5bb9df?family=Larsseit);
+@import url(//db.onlinewebfonts.com/c/3bea650d056f5bb2dcafcb462b8a0745?family=Larsseit+Medium);
+@import url(//db.onlinewebfonts.com/c/4e6177b918ba7f280b5db111d868cc94?family=Larsseit+Thin);
+
+.rowa{
+    margin-top: 60px;
+}
+.about1 img{
+    width: 30%;
+    margin: 50px;
+}
+.about1{
+    margin-top: 170px;
+}
+.pb{
+    text-decoration: underline;
+    color: black;
+    line-height: 30px;
+}
+
+.pl{
+   font-family: 'Larsseit Thin';
+   color: black;
+}
+
+.address{
+    margin: 25px;
+}
+
+.address:first-child{
+    margin-top: 90px;
+}
+.h1{
+    text-align: center;
+}
+.imga{
+    width: 94%;
+    height: auto;
+    margin-left:50px;
+    margin-top: 40px;
+}
+.press{
+    justify-content: center;
+    margin: 0 auto -10px;
+}
+.press2{
+    justify-content: center;
+    margin: 0 auto 60px;
+}
+.rowcard{
+    margin: 30px;
+}
